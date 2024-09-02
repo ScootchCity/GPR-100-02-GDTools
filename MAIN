@@ -1,0 +1,12 @@
+LISTED ARE ONLY TOOLS THAT INTERFACE WITH OR ARE CODED IN C++ AS THAT IS MY USE CASE
+
+Cocos2D - an engine built for 2D mobile games (but it can be used for mac/windows dev as well) that allows cross platform support out of the box. It can be used in C++, JavaScript, or Lua
+SFML - a library (/API?) that allows developers to interface with all the I/O and hardware in the computer. It uses only 2D graphics. It is written in C++ and is object oriented.
+SDL - a library (/API?) that allows low level access to the computers I/O and hardware. SDL can do 2D and 3D graphics. *SDL is very similar to SFML, however it is not object oriented
+Github - Github is a file hosting website that allows teams to work on coding projects together more efficiently
+
+
+Networking
+	ENet - Enet is a simple UDP library
+	RakNet - RakNet is a more fully fledged UDP library, and is an idustry standard
+	
