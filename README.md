@@ -15,7 +15,7 @@
 
 ## Networking <br>
 [ENet](https://github.com/zpl-c/enet) - Enet is a simple UDP library. <br>
-[RakNet](https://github.com/facebookarchive/RakNet) - RakNet is a more fully fledged UDP library, and is an idustry standard. <br>
+[RakNet](https://github.com/facebookarchive/RakNet) - RakNet is a more fully fledged UDP library, and is an industry standard. <br>
 
 ## Scripting
 [AngelScript](https://www.angelcode.com/angelscript/) - Angelscript is a cross platform scriptibng library that uses C/C++ datatypes and syntax but without pointers and memory management (this is used at Embark Studios) <br>
