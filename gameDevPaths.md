@@ -1,5 +1,5 @@
-#Areas of Game Dev <br>
-##Major Fields<br>
+# Areas of Game Dev <br>
+## Major Fields<br>
 Game Design<br>
 Game Art<br>
 Game Narrative<br>
@@ -7,7 +7,7 @@ Game Marketing<br>
 Game Audio<br>
 Game Programming<br>
 
-##Game Programming<br>
+## Game Programming<br>
 AI<br>
   -Senior AI Programmer<br>
   -AI Engineer<br>
