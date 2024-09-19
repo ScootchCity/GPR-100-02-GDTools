@@ -6,7 +6,7 @@ Game Design<br>
   <br>
 Game Art<br>
   -Creates concept art<br>
-  -Creates gane assets<br>
+  -Creates game assets<br>
   <br>
 Game Narrative<br>
   -Write the narrative for story based games<br>
