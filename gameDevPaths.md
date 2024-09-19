@@ -1,11 +1,23 @@
 # Areas of Game Dev <br>
 ## Major Fields<br>
 Game Design<br>
+  -Oversees the main vision for the game<br>
+  -Does level design<br>
 Game Art<br>
+  -Creates concept art<br>
+  -Creates gane assets<br>
 Game Narrative<br>
+  -Write the narrative for story based games<br>
 Game Marketing<br>
+  -Creates promotional material for the game<br>
+  -Looks at data to more efficiently market games<br>
 Game Audio<br>
+  -Writes and records music for games<br>
+  -Records sound effects for games<br>
+  -May work with voice artists to record dialogue<br>
 Game Programming<br>
+  -Programs engines and tools for game dev<br>
+  -Uses engines and tools to program games<br>
 
 ## Game Programming<br>
 AI<br>
